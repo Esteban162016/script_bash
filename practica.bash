@@ -13,6 +13,8 @@ elif (($edad <= 17)); then
     echo 'es adolecente'
 elif (($edad <= 64)); then
      echo 'es Adulto'
+elif (($edad >= 65)); then
+     echo 'es Adulto Mayor'
 fi
 
     
