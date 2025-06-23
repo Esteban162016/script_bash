@@ -34,3 +34,4 @@ if [[ "$num" =~ ^[0-9]+$ ]]; then
 else
   echo "Por favor, introduce un número entero válido."
 fi
+#### esto no me acuerdo como se hace
